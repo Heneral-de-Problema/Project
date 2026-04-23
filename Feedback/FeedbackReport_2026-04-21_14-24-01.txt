@@ -1,0 +1,34 @@
+=======================================================
+         STUDENT FEEDBACK REPORT                       
+=======================================================
+Generated: April 21, 2026  02:24 PM
+
+-------------------------------------------------------
+  INDIVIDUAL FEEDBACK ENTRIES
+-------------------------------------------------------
+
+  Entry #1
+  Student Name : dill doe
+  Course       : math
+  Message      : good
+  Rating       : 4 / 5  (Good)
+  --------------------------------------------------
+
+=======================================================
+  SUMMARY & CALCULATIONS
+=======================================================
+
+  Total Feedback Entries : 1
+  Total Rating Points    : 4
+  Average Rating         : 4.00 / 5.00
+
+  Rating Category Breakdown:
+    Excellent    (5) : 0 entries
+    Good         (4) : 1 entry
+    Average      (3) : 0 entries
+    Poor         (2) : 0 entries
+    Very Poor    (1) : 0 entries
+
+=======================================================
+                    END OF REPORT                      
+=======================================================

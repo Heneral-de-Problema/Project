@@ -1,0 +1,36 @@
+--- Student Feedback Records ---
+
+Student Name: dasd
+Course: nath
+Feedback: good
+Rating: 4 (Good)
+
+--------------------------
+Total Feedbacks: 1
+Average Rating: 4.0
+
+Rating Summary:
+Excellent: 0
+Good: 1
+Average: 0
+Poor: 0
+Very Poor: 0
+
+--- Student Feedback Records ---
+
+Student Name: Michael
+Course: math
+Feedback: good
+Rating: 4 (Good)
+
+--------------------------
+Total Feedbacks: 1
+Average Rating: 4.0
+
+Rating Summary:
+Excellent: 0
+Good: 1
+Average: 0
+Poor: 0
+Very Poor: 0
+

@@ -1,0 +1,21 @@
+Entry #1
+Name    : nick
+Course  : math
+Feedback: good
+Rating  : 4 (Good)
+-----------------------------------------
+
+==================================
+           FEEDBACK SUMMARY       
+==================================
+Total Entries  : 1
+Average Rating : 4.00
+
+Rating Categories:
+  Excellent (5): 0
+  Good      (4): 1
+  Average   (3): 0
+  Poor      (2): 0
+  Very Poor (1): 0
+==================================
+

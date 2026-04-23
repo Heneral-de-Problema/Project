@@ -1,0 +1,72 @@
+--- Student Feedback Records ---
+
+Student Name: dsa
+Course: 1232
+Feedback: aonrioasd
+Rating: 2 (Poor)
+
+--------------------------
+Total Feedbacks: 1
+Average Rating: 2.0
+
+Rating Summary:
+Excellent: 0
+Good: 0
+Average: 0
+Poor: 1
+Very Poor: 0
+
+--- Student Feedback Records ---
+
+Student Name: jay
+Course: math
+Feedback: fun
+Rating: 3 (Average)
+
+--------------------------
+Total Feedbacks: 1
+Average Rating: 3.0
+
+Rating Summary:
+Excellent: 0
+Good: 0
+Average: 1
+Poor: 0
+Very Poor: 0
+
+--- Student Feedback Records ---
+
+Student Name: k
+Course: dswrtwq
+Feedback: 2wewad
+Rating: 1 (Very Poor)
+
+--------------------------
+Total Feedbacks: 1
+Average Rating: 1.0
+
+Rating Summary:
+Excellent: 0
+Good: 0
+Average: 0
+Poor: 0
+Very Poor: 1
+
+--- Student Feedback Records ---
+
+Student Name: mick
+Course: math
+Feedback: good
+Rating: 4 (Good)
+
+--------------------------
+Total Feedbacks: 1
+Average Rating: 4.0
+
+Rating Summary:
+Excellent: 0
+Good: 1
+Average: 0
+Poor: 0
+Very Poor: 0
+

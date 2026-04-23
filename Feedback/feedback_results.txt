@@ -1,0 +1,60 @@
+=========================================
+Timestamp      : 2026-04-21 14:47:14
+Student Name   : name
+Course/Subject : math
+Feedback       : good
+Rating         : 1 / 5  (Very Poor)
+=========================================
+
+############  SUMMARY  ############
+Generated       : 2026-04-21 14:47:17
+Total Entries   : 1
+Average Rating  : 1.00 / 5.00
+
+--- Ratings Breakdown ---
+  Excellent (5) : 0
+  Good      (4) : 0
+  Average   (3) : 0
+  Poor      (2) : 0
+  Very Poor (1) : 1
+###################################
+=========================================
+Timestamp      : 2026-04-21 14:47:43
+Student Name   : ma
+Course/Subject : ca
+Feedback       : weartas
+Rating         : 1 / 5  (Very Poor)
+=========================================
+
+############  SUMMARY  ############
+Generated       : 2026-04-21 14:47:49
+Total Entries   : 1
+Average Rating  : 1.00 / 5.00
+
+--- Ratings Breakdown ---
+  Excellent (5) : 0
+  Good      (4) : 0
+  Average   (3) : 0
+  Poor      (2) : 0
+  Very Poor (1) : 1
+###################################
+=========================================
+Timestamp      : 2026-04-21 14:53:52
+Student Name   : dsadw
+Course/Subject : dwadw
+Feedback       : 232
+Rating         : 1 / 5  (Very Poor)
+=========================================
+
+############  SUMMARY  ############
+Generated       : 2026-04-21 14:53:54
+Total Entries   : 1
+Average Rating  : 1.00 / 5.00
+
+--- Ratings Breakdown ---
+  Excellent (5) : 0
+  Good      (4) : 0
+  Average   (3) : 0
+  Poor      (2) : 0
+  Very Poor (1) : 1
+###################################
